@@ -3,17 +3,3 @@ table,td {
     width: 500px;
     height: 50px;
 }
-/*
-tr:nth-child(even)
-td:nth-child(even),
-tr:nth-child(odd)
-td:nth-child(odd){
-    background-color: #fece9e;
-}
-tr:nth-child(odd)
-td:nth-child(even),
-tr:nth-child(even)
-td:nth-child(odd){
-    background-color: #d18b47;
-}
-    */
